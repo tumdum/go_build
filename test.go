@@ -1,7 +1,7 @@
 package main
 
-import "foo"
+import "complicated/package/path"
 
 func main() {
-	foo.Hello()
+	path.Hello()
 }
